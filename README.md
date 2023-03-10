@@ -1,4 +1,4 @@
-# lâmpada
+# Lâmpada
 Primeiro mini projeto no JavaScript.
 
 A lâmpada acende, desliga e quebra ao duplo click.
